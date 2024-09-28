@@ -1,0 +1,18 @@
+{
+  "name": "sum_of_two_numbers",
+  "version": "1.0.0",
+  "description": "Sum Of Two Numbers API on Digital Ocean",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "digitalocean",
+    "sum"
+  ],
+  "author": "Uday Chandra Macharla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
